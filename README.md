@@ -1,20 +1,18 @@
-## Hi there 👋
+# Hi there 👋, Nice meeting you, I'm Bryan.
 
-### Nice meeting you, I'm Bryan.
-
-## Find me
+### Find me
 
 <a href="https://twitter.com/mambo_bryan" target="_blank"><img align="left" alt="Mambo Bryan" width="22px" src="./images/twitter.svg" /></a>
 <a href="https://linkedin.com/in/mambo-bryan/" target="_blank"><img align="left" alt="Mambo Bryan" width="22px" src="./images/linkedin.svg" /></a>
 <br/>
 
-## My Work
+### My Work
 
 <a href="https://play.google.com/store/apps/dev?id=8450412690523747849" target="_blank"><img align="left" alt="Mambo Bryan" width="22px" src="./images/playstore.svg" /></a>
 
 <br/>
 
-## About me
+### About me
 
 - 🔭 I’m currently working at <a href="https://growd.org" target="_blank">growd</a>
 - 🌱 I’m currently learning front-end development
@@ -25,13 +23,13 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
-## Languages and Tools
+### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-## GitHub stats
+### GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamboBryan&layout=compact)](https://github.com/MamboBryan/github-readme-stats)
 
