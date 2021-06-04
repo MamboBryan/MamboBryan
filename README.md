@@ -14,6 +14,8 @@
 
 <br/>
 
+## About me
+
 - 🔭 I’m currently working at <a href="https://growd.org" target="_blank">growd</a>
 - 🌱 I’m currently learning front-end development
 - 👯 I’m looking to collaborate on <a href="https://play.google.com/store/apps/details?id=com.mambo.rafiki" target="_blank">Rafiki</a>
