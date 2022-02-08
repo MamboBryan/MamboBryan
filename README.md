@@ -1,36 +1,31 @@
-# Hi there 👋, Nice meeting you, I'm Bryan.
+## Hi there 👋
 
-### Find me
+### I am an Android Developer working in Nairobi, Kenya
 
-<a href="https://twitter.com/mambo_bryan" target="_blank"><img align="left" alt="Mambo Bryan" width="22px" src="./images/twitter.svg" /></a>
-<a href="https://linkedin.com/in/mambo-bryan/" target="_blank"><img align="left" alt="Mambo Bryan" width="22px" src="./images/linkedin.svg" /></a>
-<br/>
+<a href="https://play.google.com/store/apps/dev?id=8450412690523747849" target="_blank">![Playstore](https://img.shields.io/badge/Playstore-APPs-Green?style=for-the-badge&logo=google-play)</a> <a href="https://twitter.com/mambo_bryan" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-DM-blue?style=for-the-badge&logo=twitter)</a> <a href="mailto:mambobryan@gmail.com" target="_blank">![Mail](https://img.shields.io/badge/GMAIL-INBOX-red?style=for-the-badge&logo=gmail)</a> <a href="https://linkedin.com/in/mambo-bryan/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-Resume-orange?style=for-the-badge&logo=linkedin)</a>  <a href="https://mambo-d781f.web.app/" target="_blank">![Website](https://img.shields.io/badge/Website-reach-blueviolet?style=for-the-badge)
+</a>
 
-### My Work
+##### NOW
 
-<a href="https://play.google.com/store/apps/dev?id=8450412690523747849" target="_blank"><img align="left" alt="Mambo Bryan" width="22px" src="./images/playstore.svg" /></a>
+- ✨ Crafted [Poetree](https://github.com/MamboBryan/poetree) app
+- 🎉 Planning to become a developer advocate
+- 🥝 What about this?
 
-<br/>
+#### BIO
 
-### About me
+- 🏢 I'm currently working at **Growd Global**
+- ⚙️ I use daily: `kotlin`, `xml`, `compose`
+- 🌍 I'm mostly active within the **Android Community**
+- 💅 Developed: [Poetree](https://play.google.com/store/apps/details?id=com.mambo.poetree), [Rafiki](https://play.google.com/store/apps/details?id=com.mambo.rafiki), [TiziFiti](https://fitness-abc4c.web.app/), etc…
+- 🌱 Learning more about **Compose**, **Kotlin** and **Android**
+- 💬 Ping me about **android**, **compose**, **kotlin**, **development**, **mentorship**
+- 📫 Reach me: [twitter.com/mambo_bryan](https://twitter.com/mambo_bryan)
+- ⚡️ Fun fact: I'm a huge fan of Art
 
-- 🔭 I’m currently working at <a href="https://growd.org" target="_blank">growd</a>
-- 🌱 I’m currently learning front-end development
-- 👯 I’m looking to collaborate on <a href="https://play.google.com/store/apps/details?id=com.mambo.rafiki" target="_blank">Rafiki</a>
-- 🤔 I’m looking for help with Android development
-- 💬 Ask me about: Android and Front-End development
-- 📫 How to reach me: Drop me a DM on twitter
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+### Stats
 
-### Languages and Tools
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MamboBryan&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MamboBryan&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 
-### GitHub stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamboBryan&layout=compact)](https://github.com/MamboBryan/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MamboBryan)](https://github.com/MamboBryan/github-readme-stats)
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=MamboBryan&theme=darcula&hide_border=true&background=FFFFFF00">
