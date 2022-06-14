@@ -5,7 +5,7 @@
 
 ### Android Developer Inspiring 
 
-[![](https://visitcount.itsvg.in/api?id=MamboBryan&label=The%20Inspired&icon=6&pretty=false)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=MamboBryan&label=The%20Inspired&icon=6&pretty=false)](https://visitcount.itsvg.in) -->
 
 ##### NOW
 
