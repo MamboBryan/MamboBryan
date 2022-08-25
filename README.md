@@ -9,14 +9,12 @@
 
 ##### NOW
 
-- ✨ Crafted [Poetree](https://github.com/MamboBryan/poetree) app
+- ✨ Crafting [Poetree](https://github.com/MamboBryan/poetree) app
 - 🎉 Planning to become a developer advocate
-- 🥝 What about this?
 
 #### BIO
 
-- 🏢 I'm currently working at **Growd Global**
-- ⚙️ I use daily: `kotlin`, `xml`, `compose`
+- ⚙️ I daily use: `kotlin`
 - 🌍 I'm mostly active within the **Android Community**
 - 💅 Developed: [Poetree](https://play.google.com/store/apps/details?id=com.mambo.poetree), [Rafiki](https://play.google.com/store/apps/details?id=com.mambo.rafiki), [TiziFiti](https://fitness-abc4c.web.app/), etc…
 - 🌱 Learning more about **Compose**, **Kotlin** and **Android**
