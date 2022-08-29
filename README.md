@@ -10,7 +10,7 @@
 ##### NOW
 
 - ✨ Crafting [Poetree](https://github.com/MamboBryan/poetree) app
-- 🎉 Planning to become a developer advocate
+- 🎉 Aspiring developer advocate
 
 #### BIO
 
