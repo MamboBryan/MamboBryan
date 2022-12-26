@@ -1,4 +1,4 @@
-# High Order Functions : Introduction
+# High Order Functions
 
 
 # Overview
