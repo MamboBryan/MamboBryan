@@ -19,7 +19,7 @@ Software Developer excitingly inspiring
 
 - ⚙️ I daily use: `kotlin`
 - 🌍 I'm mostly active within the **Android Community**
-- 💅 Developed: [Poetree](https://play.google.com/store/apps/details?id=com.mambo.poetree), [Rafiki](https://play.google.com/store/apps/details?id=com.mambo.rafiki), [TiziFiti](https://fitness-abc4c.web.app/), etc…
+- 💅 Developed: [Rafiki](https://play.google.com/store/apps/details?id=com.mambo.rafiki), [TiziFiti](https://fitness-abc4c.web.app/), etc…
 - 🌱 Learning more about **Compose**, **Kotlin** and **Android**
 - 💬 Ping me about **android**, **compose**, **kotlin**, **development**, **mentorship**
 - 📫 Reach me: [twitter.com/mambo_bryan](https://twitter.com/mambo_bryan)
