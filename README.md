@@ -2,7 +2,7 @@
 
 <p align="center"><img align="center" alt="Android" width="25%" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/></p>
 
-### All the Mambo, Jambo! 
+### All the Mambo, Jumbo! 
 
  ✨ Crafting at [Bizyback](https://github.com/bizyback)
  🎉 Advocating at [KotlinKenya](https://github.com/KotlinKenya)
